@@ -1,6 +1,5 @@
-## Hi there 👋
 
-<!--<h1 align="center">Hi 👋, I'm Mycle</h1>
+<h1 align="center">Hi 👋, I'm Mycle</h1>
 
 - 📫 How to reach me **mycleyadav24@gmail.com**
 
